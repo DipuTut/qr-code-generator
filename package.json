@@ -1,7 +1,8 @@
-{ "type": "module",
+{
+  "type": "module",
   "name": "qr-code-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "QR Code Generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DipuTut/qr-code-generator.git"
+    "url": "git+ssh://git@github.com/atamankina/qr-code-generator.git"
   },
-  "author": "Asadul Haque",
+  "author": "Gal A",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DipuTut/qr-code-generator/issues"
+    "url": "https://github.com/atamankina/qr-code-generator/issues"
   },
-  "homepage": "https://github.com/DipuTut/qr-code-generator#readme",
+  "homepage": "https://github.com/atamankina/qr-code-generator#readme",
   "dependencies": {
     "inquirer": "^9.2.17",
     "qr-image": "^3.2.0"
